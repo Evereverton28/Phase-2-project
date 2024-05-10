@@ -1,0 +1,343 @@
+{
+  "cars": [
+    {
+      "year": "2012",
+      "make": "BMW",
+      "model": "5-Series",
+      "trim": "535i",
+      "style": "SEDAN 4-DR",
+      "type": "",
+      "size": "",
+      "category": "",
+      "made_in": "GERMANY",
+      "made_in_city": "",
+      "doors": "",
+      "fuel_type": "",
+      "fuel_capacity": "18.50 gallon",
+      "city_mileage": "19 - 21 miles/gallon",
+      "highway_mileage": "29 - 31 miles/gallon",
+      "engine": "3.0L L6 DOHC 24V",
+      "engine_size": "",
+      "engine_cylinders": "",
+      "transmission": "6-Speed Manual | 8-Speed Automatic",
+      "transmission_short": "6M | 8A",
+      "transmission_type": "",
+      "transmission_speeds": "",
+      "drivetrain": "RWD",
+      "anti_brake_system": "4-Wheel ABS",
+      "steering_type": "R&P",
+      "curb_weight": "4090 lbs",
+      "gross_vehicle_weight_rating": "",
+      "overall_height": "57.60 in.",
+      "overall_length": "193.10 in.",
+      "overall_width": "73.20 in.",
+      "wheelbase_length": "116.90 in.",
+      "standard_seating": "5",
+      "invoice_price": "$48,480 USD",
+      "delivery_charges": "$895 USD",
+      "manufacturer_suggested_retail_price": "$52,500 USD",
+      "production_seq_number": "811956",
+      "front_brake_type": "Disc",
+      "rear_brake_type": "Disc",
+      "turning_diameter": "37.50 in.",
+      "front_suspension": "Ind",
+      "rear_suspension": "Ind",
+      "front_spring_type": "Coil",
+      "rear_spring_type": "Coil",
+      "tires": "245/45R18",
+      "front_headroom": "40.50 in.",
+      "rear_headroom": "38.30 in.",
+      "front_legroom": "",
+      "rear_legroom": "",
+      "front_shoulder_room": "58.30 in.",
+      "rear_shoulder_room": "56.20 in.",
+      "front_hip_room": "",
+      "rear_hip_room": "",
+      "interior_trim": [
+        "Black Dakota Leather Interior",
+        "Black Nappa Leather Interior",
+        "Cinnamon Brown/Black Dakota Leather Interior",
+        "Everest Gray Dakota Leather Interior",
+        "Oyster/Black Dakota Leather Interior",
+        "Oyster/Black Nappa Leather Interior",
+        "Venetian Beige Dakota Leather Interior"
+      ],
+      "exterior_color": [
+        "Alpine White",
+        "Black Sapphire Metallic",
+        "Carbon Black Metallic",
+        "Cashmere Silver Metallic",
+        "Deep Sea Blue Metallic",
+        "Dark Graphite Metallic II",
+        "Imperial Blue Metallic",
+        "Jet Black",
+        "Milano Beige Metallic",
+        "Mojave Metallic",
+        "Space Gray Metallic",
+        "Tasman Green Metallic",
+        "Titanium Silver Metallic"
+      ],
+      "curb_weight_manual": "4056 lbs",
+      "ground_clearance": "",
+      "track_front": "63.00 in.",
+      "track_rear": "64.10 in.",
+      "cargo_length": "",
+      "width_at_wheelwell": "",
+      "width_at_wall": "",
+      "depth": "",
+      "optional_seating": "",
+      "passenger_volume": "",
+      "cargo_volume": "",
+      "standard_towing": "",
+      "maximum_towing": "",
+      "standard_payload": "",
+      "maximum_payload": "",
+      "maximum_gvwr": "",
+      "interior_colors": [
+        {
+          "category": "Interior",
+          "name": "Black Dakota Leather Interior"
+        },
+        {
+          "category": "Interior",
+          "name": "Black Nappa Leather Interior"
+        },
+        {
+          "category": "Interior",
+          "name": "Cinnamon Brown/Black Dakota Leather Interior"
+        },
+        {
+          "category": "Interior",
+          "name": "Everest Gray Dakota Leather Interior"
+        },
+        {
+          "category": "Interior",
+          "name": "Oyster/Black Dakota Leather Interior"
+        },
+        {
+          "category": "Interior",
+          "name": "Oyster/Black Nappa Leather Interior"
+        },
+        {
+          "category": "Interior",
+          "name": "Venetian Beige Dakota Leather Interior"
+        }
+      ],
+      "exterior_colors": [
+        {
+          "category": "Exterior",
+          "name": "Alpine White"
+        },
+        {
+          "category": "Exterior",
+          "name": "Black Sapphire Metallic"
+        },
+        {
+          "category": "Exterior",
+          "name": "Carbon Black Metallic"
+        },
+        {
+          "category": "Exterior",
+          "name": "Cashmere Silver Metallic"
+        },
+        {
+          "category": "Exterior",
+          "name": "Deep Sea Blue Metallic"
+        },
+        {
+          "category": "Exterior",
+          "name": "Dark Graphite Metallic II"
+        },
+        {
+          "category": "Exterior",
+          "name": "Imperial Blue Metallic"
+        },
+        {
+          "category": "Exterior",
+          "name": "Jet Black"
+        },
+        {
+          "category": "Exterior",
+          "name": "Milano Beige Metallic"
+        },
+        {
+          "category": "Exterior",
+          "name": "Mojave Metallic"
+        },
+        {
+          "category": "Exterior",
+          "name": "Space Gray Metallic"
+        },
+        {
+          "category": "Exterior",
+          "name": "Tasman Green Metallic"
+        },
+        {
+          "category": "Exterior",
+          "name": "Titanium Silver Metallic"
+        }
+      ],
+      "4wd_awd": "N/A",
+      "abs_brakes": "Std.",
+      "adjustable_foot_pedals": "N/A",
+      "air_conditioning": "Std.",
+      "alloy_wheels": "Std.",
+      "am_fm_radio": "Std.",
+      "automatic_headlights": "Std.",
+      "automatic_load_leveling": "N/A",
+      "cargo_area_cover": "N/A",
+      "cargo_area_tiedowns": "N/A",
+      "cargo_net": "N/A",
+      "cassette_player": "N/A",
+      "cd_changer": "Opt.",
+      "cd_player": "Std.",
+      "child_safety_door_locks": "Std.",
+      "chrome_wheels": "N/A",
+      "cruise_control": "Std.",
+      "daytime_running_lights": "Std.",
+      "deep_tinted_glass": "N/A",
+      "driver_airbag": "Std.",
+      "driver_multi_adjustable_power_seat": "Std.",
+      "dvd_player": "Opt.",
+      "electrochromic_exterior_rearview_mirror": "Std.",
+      "electrochromic_interior_rearview_mirror": "Std.",
+      "electronic_brake_assistance": "Std.",
+      "electronic_parking_aid": "Opt.",
+      "first_aid_kit": "N/A",
+      "fog_lights": "Std.",
+      "front_air_dam": "Std.",
+      "front_cooled_seat": "Opt.",
+      "front_heated_seat": "Opt.",
+      "front_power_lumbar_support": "Std.",
+      "front_power_memory_seat": "Std.",
+      "front_side_airbag": "Std.",
+      "front_side_airbag_with_head_protection": "N/A",
+      "front_split_bench_seat": "N/A",
+      "full_size_spare_tire": "N/A",
+      "genuine_wood_trim": "Std.",
+      "glass_rear_window_on_convertible": "N/A",
+      "heated_exterior_mirror": "Std.",
+      "heated_steering_wheel": "Opt.",
+      "high_intensity_discharge_headlights": "Std.",
+      "interval_wipers": "Std.",
+      "keyless_entry": "Std.",
+      "leather_seat": "Std.",
+      "leather_steering_wheel": "Std.",
+      "limited_slip_differential": "Std.",
+      "load_bearing_exterior_rack": "N/A",
+      "locking_differential": "N/A",
+      "locking_pickup_truck_tailgate": "N/A",
+      "manual_sunroof": "Std.",
+      "navigation_aid": "Opt.",
+      "passenger_airbag": "Std.",
+      "passenger_multi_adjustable_power_seat": "Std.",
+      "pickup_truck_bed_liner": "N/A",
+      "pickup_truck_cargo_box_light": "N/A",
+      "power_adjustable_exterior_mirror": "Std.",
+      "power_door_locks": "Std.",
+      "power_sliding_side_van_door": "N/A",
+      "power_sunroof": "Std.",
+      "power_trunk_lid": "Opt.",
+      "power_windows": "Std.",
+      "rain_sensing_wipers": "Std.",
+      "rear_spoiler": "Opt.",
+      "rear_window_defogger": "Std.",
+      "rear_wiper": "N/A",
+      "remote_ignition": "N/A",
+      "removable_top": "N/A",
+      "run_flat_tires": "Std.",
+      "running_boards": "N/A",
+      "second_row_folding_seat": "N/A",
+      "second_row_heated_seat": "Opt.",
+      "second_row_multi_adjustable_power_seat": "N/A",
+      "second_row_removable_seat": "N/A",
+      "second_row_side_airbag": "N/A",
+      "second_row_side_airbag_with_head_protection": "N/A",
+      "second_row_sound_controls": "Opt.",
+      "separate_driver_front_passenger_climate_controls": "Std.",
+      "side_head_curtain_airbag": "Std.",
+      "skid_plate": "N/A",
+      "sliding_rear_pickup_truck_window": "N/A",
+      "splash_guards": "N/A",
+      "steel_wheels": "N/A",
+      "steering_wheel_mounted_controls": "Std.",
+      "subwoofer": "Std.",
+      "tachometer": "Std.",
+      "telematics_system": "Std.",
+      "telescopic_steering_column": "Std.",
+      "third_row_removable_seat": "N/A",
+      "tilt_steering": "Std.",
+      "tilt_steering_column": "Std.",
+      "tire_pressure_monitor": "Std.",
+      "tow_hitch_receiver": "N/A",
+      "towing_preparation_package": "N/A",
+      "traction_control": "Std.",
+      "trip_computer": "Std.",
+      "trunk_anti_trap_device": "Std.",
+      "vehicle_anti_theft": "Std.",
+      "vehicle_stability_control_system": "Std.",
+      "voice_activated_telephone": "N/A",
+      "wind_deflector_for_convertibles": "N/A",
+      "warranty": [
+        {
+          "type": "Basic",
+          "miles": "50,000 mile",
+          "months": "48 month"
+        },
+        {
+          "type": "Powertrain",
+          "miles": "50,000 mile",
+          "months": "48 month"
+        },
+        {
+          "type": "Rust",
+          "months": "144 month",
+          "miles": "Unlimited mile"
+        }
+      ],
+      "id": "f0b5"
+    },
+    {
+      "id": "c82c",
+      "year": "2020",
+      "make": "Nissan",
+      "model": "GTR"
+    },
+    {
+      "id": "17ec",
+      "year": "2020",
+      "make": "Nissan",
+      "model": "GTR"
+    },
+    {
+      "id": "4ac0",
+      "year": "2020",
+      "make": "Nissan",
+      "model": "GTR"
+    },
+    {
+      "id": "9f1d",
+      "year": "",
+      "make": "",
+      "model": ""
+    },
+    {
+      "id": "be82",
+      "year": "2020",
+      "make": "Nissan",
+      "model": "GTR"
+    },
+    {
+      "id": "ed69",
+      "year": "2020",
+      "make": "Nissan",
+      "model": "GTR"
+    },
+    {
+      "id": "96b6",
+      "year": "",
+      "make": "",
+      "model": ""
+    }
+  ]
+}
